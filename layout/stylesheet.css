@@ -1,0 +1,115 @@
+body{margin:0px;
+     background-color:#9c9f84;
+     font-family: Verdana, Georgia,  serif;
+      font-size: 14px;}
+ 
+ #header ul{padding:0;
+    list-style-type:none; 
+      background-color:#5c755e;
+           margin:10px;
+          height:30px;
+          }
+   .button{
+  background:#e7e7e7;
+  border:1px solid;
+  border-radius:3px;
+  font:700 13px Helvetica,Arial;
+  height:30px;
+  line-height:28px;
+  padding: 0 20px;
+  text-align:center;
+  margin-right:10px;
+  box-sizing:border-box;}
+
+
+ li
+    {display:inline; }
+
+  a{color:#666;
+    text-decoration:none;
+    float:right;}
+
+  a:hover{color:#000;
+          background-color:#dadada;}
+     h1{text-align:center;
+     margin-top:20px;}             
+
+   #navbar{
+          margin:10px;
+          }
+
+      .imagec{margin-left:130px;
+        opacity:1.0;
+        transition: opacity 1s ease-in-out;}
+
+
+       .imagec:hover{opacity:0.4;}
+      
+      
+     
+     
+
+
+    .main{
+          margin:10px;
+         height:300px }
+    .col{width:200px;
+      height:200px;
+      background-color:#5c7755e;
+      float:left;
+       border:2px solid black;
+       padding:20px;
+       margin:10px;
+        margin-left:150px;
+        border-radius:10px;}
+
+    .navbar2{background-color:#5c755e;
+          margin-right:370px;
+          margin-left:10px;
+          height:350px;}
+   h2{text-align:center;}
+
+.sideright{background-color:#5c755e;
+           margin-right:10px;
+          margin-left:10px;
+          border-radius:10px;
+           padding:20px;
+           float:right;
+           width:300px;
+           font-size:105%;
+           }
+
+    .formaction{background-color:#5c755e;
+        font-size:120%;
+        text-align:center;
+           padding:20px;
+          margin:10px;
+           }
+
+      .button1{background-color:white;
+                 border:1px solid;
+              margin-left:620px;
+                margin-top:10px;
+                width:50px;
+                 border-radius:10px;
+                 cursor:arrow;}
+
+     .image{ float:left;
+          margin-left:60px;
+           }
+       
+       p{font-family: Verdana, Georgia,  serif;
+      font-size:17px;
+        margin:10px;
+                }
+
+
+     #footer{background-color:#5c755e;
+              margin:10px;
+           height:30px;
+           border-radius:10px;
+           text-align:center; 
+            border-radius:10px;
+            padding:10px;
+            color:white;}
+     
