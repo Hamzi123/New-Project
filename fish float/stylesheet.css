@@ -1,0 +1,17 @@
+body{background-color:#9c9f84;
+     margin:0px;}
+#main{background-color:#e5e4d7;
+      border-radius:5px;
+      padding:10px;
+      margin:px;}
+ .imagec{ float:left;
+          margin:10px;}
+
+  #circle{
+   height:25px;
+   width:25px;
+   background:red;
+   
+   position:absolute;
+   bottom:5px;
+   right:5px;}
